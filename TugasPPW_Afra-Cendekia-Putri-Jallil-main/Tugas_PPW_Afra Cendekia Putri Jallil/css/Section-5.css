@@ -1,0 +1,23 @@
+.section-5{
+    background-image: linear-gradient(#1768AC, #06BEE1); 
+    background-repeat: no-repeat; 
+    height: 100%; 
+    background-size: cover; 
+    background-attachment: fixed;
+}
+
+.section-5 .navbar{
+    padding-top: 2rem;
+}
+
+.section-5 .navbar .nav-link {
+    color: #06BEE1;
+}
+
+.section-5 .nav-pills .nav-link{
+    background-color: #03256C;
+}
+
+.section-5 .nav-pills .nav-link:hover{
+    background-color: #FFFFFF;
+}

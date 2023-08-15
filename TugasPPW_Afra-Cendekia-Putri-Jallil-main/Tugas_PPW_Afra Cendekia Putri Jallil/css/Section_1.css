@@ -1,0 +1,36 @@
+.section-1{
+    background-image: url(/Images/Plastic_Ocean.jpg);
+    background-position: top; 
+    background-attachment: fixed;
+    height: 768px;
+    position:inherit;
+    padding-top: 200px;
+}
+
+.section-1 .custom_button{
+    font-size: 25px; 
+    background-color: #03256C; 
+    color: #06BEE1; 
+    border-radius: 40px; 
+    width: 15rem; 
+    height: 4rem; 
+    margin-top: 2rem; 
+    margin-bottom: 4rem;
+    padding: 10px 20px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-weight: bolder;
+}
+
+.section-1 .custom_button:hover{
+    background-color: #06BEE1;
+    color: #FFFFFF;
+}
+
+.section-1 .container{
+    border-radius: 20px; 
+    padding: 20px;
+    padding-bottom: 30px; 
+    background-color: #FFFFFF; 
+    width: fit-content;
+}

@@ -1,0 +1,27 @@
+.section-3{
+    background-image: url(/Images/Ocean_Background.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 768px;
+    padding-top: 15rem;
+}
+
+.section-3 .container{ 
+
+    background-color: #FFFFFF; 
+    border-radius: 40px;
+}
+
+.section-3 img{
+    margin-bottom: 2rem;
+    width: 3rem;
+}
+
+.section-3 h1{
+    color: #03256C;
+}
+
+.section-3 p{
+    color: #03256C;    
+}
